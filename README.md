@@ -1,4 +1,4 @@
-# password
+# Password
 Password Validation
 Password Generation
 
